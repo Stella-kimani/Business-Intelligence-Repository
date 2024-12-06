@@ -1,2 +1,3 @@
 # Business-Intelligence-Repository
 Keswick Books -BI Maturity Assessment
+This project, aimed to evaluate and enhance the Business Intelligence (BI) capabilities of Keswick Books and Gifts Ltd., a Christian bookstore based in Nairobi, Kenya. The key objectives included assessing the current state of the company’s BI practices, developing a BI dashboard to visualize important operational and business metrics, and offering actionable recommendations to improve the company’s decision-making processes. Keswick Books and Gifts Ltd. is a leading retailer in Nairobi, focusing on Christian literature and religious products
